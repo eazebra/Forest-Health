@@ -4,20 +4,15 @@
 
 The Forest Health Map showcases instances of forest damage and their associated damaging agents in the Seattle area from 1980 to 2022. Through the use of proportional polygons, this map provides a comprehensive view of tree deterioration across the region.
 
-### Key Findings
 
-- **Douglas Fir Beetles**: Among the damaging agents, Douglas fir beetles emerge as a significant factor contributing to forest health decline. Their prevalence is notably high in the region.
-  
-- **Douglas Fir Trees**: Douglas fir trees are among the most affected species, experiencing considerable damage from various agents over the years.
+## Deployments
 
-*Disclaimer: Urban and/or deforested areas may not be fully represented or shown on the map.*
+[Link: ](https://eazebra.github.io/Forest-Health/)
+
 
 ## Screenshots
 
 ![image](https://github.com/eazebra/Forest-Health/assets/129892934/66ab4e72-c1a1-4922-b5a3-9a4e463c7590)
-
-
-## Deployments
 
 
 ## Source
